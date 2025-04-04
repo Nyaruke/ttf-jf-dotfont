@@ -1,4 +1,4 @@
-# Maintainer: baraclese at gmail dot com
+
 pkgname=ttf-jf-dotfont
 pkgver=1.00.20150527
 pkgrel=1
